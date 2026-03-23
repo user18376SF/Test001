@@ -1,2 +1,2 @@
-# Duze001
+# Test001
 Config files for my GitHub profile.
